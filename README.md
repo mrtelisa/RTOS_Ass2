@@ -1,2 +1,2 @@
-# RTOS_Ass1
-Assignment for Real Time Operating System course
+# RTOS_Ass2
+2nd assignment for Real Time Operating System course
